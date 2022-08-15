@@ -1,9 +1,7 @@
 <p align="center">
 
-   <img alt="Coder GIF" height=450 width=550 src="<p align="center">
+   <img alt="Coder GIF" height=450 width=550 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif">
 
-   <img alt="Coder GIF" height=450 width=550 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
-  
 </p>
 
 
